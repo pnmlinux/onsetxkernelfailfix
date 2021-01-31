@@ -1,6 +1,6 @@
 #Kernel Fail Fix 
 
-###!!!Attention, perform these operations right after reboot after installation!!!
+!!!Attention, perform these operations right after reboot after installation!!!
 
 1-Download the fix.sh script
 
